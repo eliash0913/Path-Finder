@@ -9,5 +9,5 @@ class WayPoints
 public:
 	WPS wps;
 	WayPoints(std::string filename);
-	int test();
 };
+
